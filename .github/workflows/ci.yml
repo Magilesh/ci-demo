@@ -1,10 +1,10 @@
 name: CI
 
-on: push
+on: 
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Print message
-        run: echo "Hello DevOps i started learning today its me magilesh" @@@JIII::""
+        run: echo "Hello DevOps i started learning today its me magilesh"
