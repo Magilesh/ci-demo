@@ -7,4 +7,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Print message
-        run: echo "Hello DevOps"
+        run: echo "Hello DevOps i started learning today"
